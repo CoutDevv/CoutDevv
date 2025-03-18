@@ -28,7 +28,7 @@
     
   <!-- Streak Stats -->
   <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrfDev&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="CoutDevv" "/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoutDevv&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="CoutDevv" "/>
     <br>
 </div>
 
