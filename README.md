@@ -6,8 +6,6 @@
 
 ## <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="30"> **About Me:** 
 - 🌱 Now I'm a student of Software engineer at Fiap -  Faculdade de Informática e Administração Paulista"
-- ⚡ One fact **I am fluent in English and have an intermediate level of Spanish!!**
-- ⚡ Second Curiosity **I'm an entrepreneur**
 
    <!-- Language e tools -->
 
@@ -26,12 +24,11 @@
 
 <div style="text-align: center;" align="center">
   <h3> GITHUB STATS 📈</h3>
-  <br>
-<!-- GitHub Stats -->
-
+  <br><!-- GitHub Stats -->
+    
   <!-- Streak Stats -->
   <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrfDev&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="vrfDev" "/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrfDev&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="CoutDevv" "/>
     <br>
 </div>
 
@@ -40,15 +37,15 @@
 
 ## <img src="https://media.tenor.com/kaYTu--3q_EAAAAi/pepe-calling.gif" width="30"> **Follow Me:** 
 <div align="center">
-    <a href="mailto:vitramostc@gmail.com">
+    <a href="mailto:allantcoutinho@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>    
 
-<a href="https://www.instagram.com/vramosf_06/" target="_blank">
+<a href="https://www.instagram.com/coutinho_allann/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/vitramostc/" target="_blank">
+<a href="https://www.linkedin.com/in/Allancoutinho/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </p>
